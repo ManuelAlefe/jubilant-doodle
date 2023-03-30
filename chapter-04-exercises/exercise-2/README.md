@@ -7,14 +7,14 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 <table>
   <tr>
-    <th><b>INFO</b></th>
-    <th><b>ASTR</b></th>
-    <th><b>ARCH</b></th>
+    <th><i>INFO</i></th>
+    <th><i>ASTR</i></th>
+    <th><i>ARCH</i></th>
   </tr>
   <tr>
-    <td><i>201</i></td>
-    <td><i>150</i></td>
-    <td><i>150</i></td>
+    <td><b>201</b></td>
+    <td><b>150</b></td>
+    <td><b>150</b></td>
   </tr>
   <tr>
     <td>Kyle Thayer</td>
