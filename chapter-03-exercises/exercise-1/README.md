@@ -16,4 +16,6 @@ In this exercise, you will practice using git to clone and edit repositories, as
 7. Push the changes to GitHub, and then view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
 <h1>Favorite Foods</h1>
-<h2>Pizza, French Fries,</h2>
+<h2>Pizza</h2>
+<h2>French Fries</h2>
+<h2>Cinnamon Rolls</h2>
